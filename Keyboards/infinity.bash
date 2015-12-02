@@ -52,8 +52,6 @@ Chip="mk20dx128vlf5"
 # Compiler Selection
 Compiler="gcc"
 
-
-
 ########################
 # Bash Library Include #
 ########################
